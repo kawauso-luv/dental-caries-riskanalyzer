@@ -32,7 +32,7 @@
 
 Colab外での実行は想定していませんが、もし行う場合は`dental_data.csv` をアップロードしてお使いください。
 
-上手く実行できれば、以下のようなグラフが表示されます。
+上手く実行できれば、以下のようなグラフが表示されます。<br>
 <img width="554" height="455" alt="regression_plot" src="https://github.com/user-attachments/assets/b3cc4c47-a78a-4787-9389-b5e03bcadbbd" />
 
 その後にシミュレーションが開始し、ユーザー入力を求めてきます。
