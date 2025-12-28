@@ -1,4 +1,6 @@
 # Dental Caries Risk Analyzer
+![Dental](https://github.com/user-attachments/assets/cf66e989-05e6-4731-bbf1-0e0d640fbba1)
+
 
 ## 概要
 本プロジェクトは、架空の歯科健診データを用いて虫歯リスクを分析し、統計処理・可視化を行った後、ユーザーの生活習慣に基づいた簡易的な虫歯リスク判定と改善提案を行う教育用アプリケーションです。
@@ -37,3 +39,6 @@ Colab外での実行は想定していませんが、もし行う場合は`denta
 
 その後にシミュレーションが開始し、ユーザー入力を求めてきます。
 <img width="1585" height="552" alt="スクリーンショット (16)" src="https://github.com/user-attachments/assets/ea74694c-a128-471d-82c9-6acf80061201" />
+
+![Dental (1)](https://github.com/user-attachments/assets/b25b9c96-970a-4148-9a50-300428787da8)
+
